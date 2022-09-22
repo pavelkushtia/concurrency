@@ -1,3 +1,7 @@
+/******************************************************************************
+A simple application that creates mutiple threads. 
+*******************************************************************************/
+
 #include <iostream>
 #include <thread>
 #include <chrono>
