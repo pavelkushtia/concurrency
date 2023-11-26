@@ -20,7 +20,7 @@ using namespace std;
 /**
 * Solution Approach 
 * ---------------------
-* Condition varianble based solution.
+* Condition varianble with std::thread based solution.
 **/
 
 std::mutex mutex_;
