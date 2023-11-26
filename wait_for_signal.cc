@@ -64,5 +64,7 @@ int main()
         thread.join();
     }
 
+    trigger_thread.join();
+    
     return 0;
 }
